@@ -13,7 +13,7 @@ dependencies:
   http: ^0.13.3
   logger: ^1.0.0
   shared_preferences: ^2.0.6
-  json_dynamic_widget: 8.0.0
+  json_dynamic_widget: ^8.0.0
   mockito: ^5.4.4
 
 dev_dependencies:
